@@ -1,0 +1,15 @@
+C:\Users\student\Documents\ISP20\Vtitbid.ISP20.VladPolyakova.Objects\Vtitbid.ISP20.VladPolyakova.Objects.Classes\bin\Debug\net6.0\Vtitbid.ISP20.VladPolyakova.Objects.Classes.exe
+C:\Users\student\Documents\ISP20\Vtitbid.ISP20.VladPolyakova.Objects\Vtitbid.ISP20.VladPolyakova.Objects.Classes\bin\Debug\net6.0\Vtitbid.ISP20.VladPolyakova.Objects.Classes.deps.json
+C:\Users\student\Documents\ISP20\Vtitbid.ISP20.VladPolyakova.Objects\Vtitbid.ISP20.VladPolyakova.Objects.Classes\bin\Debug\net6.0\Vtitbid.ISP20.VladPolyakova.Objects.Classes.runtimeconfig.json
+C:\Users\student\Documents\ISP20\Vtitbid.ISP20.VladPolyakova.Objects\Vtitbid.ISP20.VladPolyakova.Objects.Classes\bin\Debug\net6.0\Vtitbid.ISP20.VladPolyakova.Objects.Classes.dll
+C:\Users\student\Documents\ISP20\Vtitbid.ISP20.VladPolyakova.Objects\Vtitbid.ISP20.VladPolyakova.Objects.Classes\bin\Debug\net6.0\Vtitbid.ISP20.VladPolyakova.Objects.Classes.pdb
+C:\Users\student\Documents\ISP20\Vtitbid.ISP20.VladPolyakova.Objects\Vtitbid.ISP20.VladPolyakova.Objects.Classes\obj\Debug\net6.0\Vtitbid.ISP20.VladPolyakova.Objects.Classes.csproj.AssemblyReference.cache
+C:\Users\student\Documents\ISP20\Vtitbid.ISP20.VladPolyakova.Objects\Vtitbid.ISP20.VladPolyakova.Objects.Classes\obj\Debug\net6.0\Vtitbid.ISP20.VladPolyakova.Objects.Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Documents\ISP20\Vtitbid.ISP20.VladPolyakova.Objects\Vtitbid.ISP20.VladPolyakova.Objects.Classes\obj\Debug\net6.0\Vtitbid.ISP20.VladPolyakova.Objects.Classes.AssemblyInfoInputs.cache
+C:\Users\student\Documents\ISP20\Vtitbid.ISP20.VladPolyakova.Objects\Vtitbid.ISP20.VladPolyakova.Objects.Classes\obj\Debug\net6.0\Vtitbid.ISP20.VladPolyakova.Objects.Classes.AssemblyInfo.cs
+C:\Users\student\Documents\ISP20\Vtitbid.ISP20.VladPolyakova.Objects\Vtitbid.ISP20.VladPolyakova.Objects.Classes\obj\Debug\net6.0\Vtitbid.ISP20.VladPolyakova.Objects.Classes.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\ISP20\Vtitbid.ISP20.VladPolyakova.Objects\Vtitbid.ISP20.VladPolyakova.Objects.Classes\obj\Debug\net6.0\Vtitbid.ISP20.VladPolyakova.Objects.Classes.dll
+C:\Users\student\Documents\ISP20\Vtitbid.ISP20.VladPolyakova.Objects\Vtitbid.ISP20.VladPolyakova.Objects.Classes\obj\Debug\net6.0\refint\Vtitbid.ISP20.VladPolyakova.Objects.Classes.dll
+C:\Users\student\Documents\ISP20\Vtitbid.ISP20.VladPolyakova.Objects\Vtitbid.ISP20.VladPolyakova.Objects.Classes\obj\Debug\net6.0\Vtitbid.ISP20.VladPolyakova.Objects.Classes.pdb
+C:\Users\student\Documents\ISP20\Vtitbid.ISP20.VladPolyakova.Objects\Vtitbid.ISP20.VladPolyakova.Objects.Classes\obj\Debug\net6.0\Vtitbid.ISP20.VladPolyakova.Objects.Classes.genruntimeconfig.cache
+C:\Users\student\Documents\ISP20\Vtitbid.ISP20.VladPolyakova.Objects\Vtitbid.ISP20.VladPolyakova.Objects.Classes\obj\Debug\net6.0\ref\Vtitbid.ISP20.VladPolyakova.Objects.Classes.dll
