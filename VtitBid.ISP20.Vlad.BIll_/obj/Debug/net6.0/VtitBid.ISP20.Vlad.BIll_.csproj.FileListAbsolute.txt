@@ -1,0 +1,15 @@
+C:\Vtitbid.ISP20.Vlad.Objects\VtitBid.ISP20.Vlad.BIll_\bin\Debug\net6.0\VtitBid.ISP20.Vlad.BIll_.exe
+C:\Vtitbid.ISP20.Vlad.Objects\VtitBid.ISP20.Vlad.BIll_\bin\Debug\net6.0\VtitBid.ISP20.Vlad.BIll_.deps.json
+C:\Vtitbid.ISP20.Vlad.Objects\VtitBid.ISP20.Vlad.BIll_\bin\Debug\net6.0\VtitBid.ISP20.Vlad.BIll_.runtimeconfig.json
+C:\Vtitbid.ISP20.Vlad.Objects\VtitBid.ISP20.Vlad.BIll_\bin\Debug\net6.0\VtitBid.ISP20.Vlad.BIll_.dll
+C:\Vtitbid.ISP20.Vlad.Objects\VtitBid.ISP20.Vlad.BIll_\bin\Debug\net6.0\VtitBid.ISP20.Vlad.BIll_.pdb
+C:\Vtitbid.ISP20.Vlad.Objects\VtitBid.ISP20.Vlad.BIll_\obj\Debug\net6.0\VtitBid.ISP20.Vlad.BIll_.csproj.AssemblyReference.cache
+C:\Vtitbid.ISP20.Vlad.Objects\VtitBid.ISP20.Vlad.BIll_\obj\Debug\net6.0\VtitBid.ISP20.Vlad.BIll_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vtitbid.ISP20.Vlad.Objects\VtitBid.ISP20.Vlad.BIll_\obj\Debug\net6.0\VtitBid.ISP20.Vlad.BIll_.AssemblyInfoInputs.cache
+C:\Vtitbid.ISP20.Vlad.Objects\VtitBid.ISP20.Vlad.BIll_\obj\Debug\net6.0\VtitBid.ISP20.Vlad.BIll_.AssemblyInfo.cs
+C:\Vtitbid.ISP20.Vlad.Objects\VtitBid.ISP20.Vlad.BIll_\obj\Debug\net6.0\VtitBid.ISP20.Vlad.BIll_.csproj.CoreCompileInputs.cache
+C:\Vtitbid.ISP20.Vlad.Objects\VtitBid.ISP20.Vlad.BIll_\obj\Debug\net6.0\VtitBid.ISP20.Vlad.BIll_.dll
+C:\Vtitbid.ISP20.Vlad.Objects\VtitBid.ISP20.Vlad.BIll_\obj\Debug\net6.0\refint\VtitBid.ISP20.Vlad.BIll_.dll
+C:\Vtitbid.ISP20.Vlad.Objects\VtitBid.ISP20.Vlad.BIll_\obj\Debug\net6.0\VtitBid.ISP20.Vlad.BIll_.pdb
+C:\Vtitbid.ISP20.Vlad.Objects\VtitBid.ISP20.Vlad.BIll_\obj\Debug\net6.0\VtitBid.ISP20.Vlad.BIll_.genruntimeconfig.cache
+C:\Vtitbid.ISP20.Vlad.Objects\VtitBid.ISP20.Vlad.BIll_\obj\Debug\net6.0\ref\VtitBid.ISP20.Vlad.BIll_.dll
